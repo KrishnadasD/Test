@@ -68,7 +68,7 @@ public class UnitTest {
 					UnitTest window = new UnitTest();
 					window.frame.setVisible(true);
 				} catch (Exception e) {
-					e.printStackTrace();
+					
 				}
 			}
 		});
@@ -115,6 +115,7 @@ public class UnitTest {
 		
 		textField_1 = new JTextField();
 		textField_1.addKeyListener(new KeyAdapter() {
+
 			@Override
 			public void keyReleased(KeyEvent e) {
 				String PATTERN="^[a-zA-Z]+$";
@@ -126,7 +127,7 @@ public class UnitTest {
 				else {
 					nlab.setText(null);
 				}
-			}
+			;}
 		});
 		textField_1.setFont(new Font("Calibri", Font.BOLD, 16));
 		textField_1.setBounds(167, 98, 209, 27);
@@ -143,14 +144,15 @@ public class UnitTest {
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-			if(textField.getText().isEmpty()||textField_1.getText().isEmpty()||textField_2.getText().isEmpty()) {
-				JOptionPane.showMessageDialog(null,"Enter all fields");
-			}
-			else{
+//			if(textField.getText().isEmpty()||textField_1.getText().isEmpty()||textField_2.getText().isEmpty()) {
+//				JOptionPane.showMessageDialog(null,"Enter all fields");
+	//		}
+			//else{
 				SaveToDatabase();
 				
-			}
-				ShowData();
+			//}
+			
+				//ShowData();
 			}
 			
 		});
@@ -161,9 +163,8 @@ public class UnitTest {
 		btnUpdate = new JButton("Update");
 		btnUpdate.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				
 				ShowData();
-				}
+			}
 		});
 		btnUpdate.setFont(new Font("Calibri", Font.BOLD, 16));
 		btnUpdate.setBounds(205, 221, 105, 34);
@@ -172,7 +173,7 @@ public class UnitTest {
 		JButton btnBrowse = new JButton("Browse");
 		btnBrowse.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				//BrowseImage();
+				
 			}
 		});
 		btnBrowse.setFont(new Font("Calibri", Font.BOLD, 16));
@@ -318,32 +319,33 @@ public class UnitTest {
 		return null;
 	}
 	public int SaveToDatabase(Object a,Object b,Object c)  {
-		Connection con=conn();
+		
 		try {
+			Connection con=conn();
 			if(a==null||b==null||c==null) {
 				return 0;
 			}
 			else {
 			PreparedStatement ps=con.prepareStatement("INSERT INTO student (ID,Name,Department) VALUES (a,b,c);");
-			ps.setString(1,(String) a);
-			ps.setString(2,(String) b);
-			ps.setString(3,(String) c);
-			ps.execute();
-			JOptionPane.showMessageDialog(null, "Saved!!!");
+//			ps.setString(1,(String) a);
+//			ps.setString(2,(String) b);
+//			ps.setString(3,(String) c);
+//			ps.execute();
+//			JOptionPane.showMessageDialog(null, "Saved!!!");
 			}}catch(Exception e) {
-			System.out.println("error"+e);
+			
 		}
 		return 1;
 	}
-	public void ShowData() {
-		Connection con=conn();
+	public int ShowData() {
+		
 		DefaultTableModel model=new DefaultTableModel();
 		model.addColumn("ID");
 		model.addColumn("Name");
 		model.addColumn("Department");
-
 		
 		try {
+			Connection con=conn();
 			String query="select * from student";
 			Statement st=con.createStatement();
 			ResultSet rs=st.executeQuery(query);
@@ -365,13 +367,14 @@ public class UnitTest {
 			table.getColumnModel().getColumn(0).setPreferredWidth(50);
 			table.getColumnModel().getColumn(1).setPreferredWidth(50);
 		}catch(Exception e) {
-			System.out.println("Error" + e);
+			
 		}
+		return 0;
 	}
 	public int UpdateDatabase(Object a,Object b,Object c) {
-		Connection con=conn();
-		
+				
 		try {
+			Connection con=conn();
 			if(a==null||b==null||c==null) {
 				return 0;
 			}
@@ -385,18 +388,16 @@ public class UnitTest {
 			//JOptionPane.showMessageDialog(null, "Updated");
 			
 			}}catch(Exception e1) {
-			System.out.println("Error"+e1 );
+			
 		}
 		return 1;
 		
 	}
 	
 	public int DeleteDatabase(Object a,Object b,Object c) {
-		Connection con=conn();
-		
-		
-		
+			
 		try {
+			Connection con=conn();
 			if(a==null||b==null||c==null) {
 				return 0;
 			}
@@ -410,7 +411,7 @@ public class UnitTest {
 			//JOptionPane.showMessageDialog(null, "Deleted");
 			
 			}}catch(Exception e2) {
-			System.out.println("Error"+e2 );
+		
 		}
 		return 1;
 	
@@ -420,16 +421,17 @@ public class UnitTest {
 		return true;
 	}
 	public boolean SaveToDatabase() {
-		Connection con=conn();
+		
 		try {
+			Connection con=conn();
 			PreparedStatement ps=con.prepareStatement("INSERT INTO student (ID,Name,Department) VALUES (?,?,?);");
 			ps.setString(1,textField.getText());
 			ps.setString(2,textField_1.getText());
 			ps.setString(3,textField_2.getText());
 			ps.execute();
-			JOptionPane.showMessageDialog(null, "Saved!!!");
+			//JOptionPane.showMessageDialog(null, "Saved!!!");
 		}catch(Exception e) {
-			System.out.println("error"+e);
+			
 		}
 		return true;
 	

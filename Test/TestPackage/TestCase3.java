@@ -48,6 +48,7 @@ public class TestCase3 {
 		assertEquals(0, t);
 	}
 	@Test
+
 	public void test6() {
 		UnitTest j=new UnitTest();
 		int t=j.DeleteDatabase(3,null,null);
@@ -65,4 +66,5 @@ public class TestCase3 {
 		int t=j.BrowseImage("C:\\Users\\Kichu\\Downloads\\student.jpg");
 		assertEquals(1, t);
 	}
+	
 }

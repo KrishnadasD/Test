@@ -7,6 +7,7 @@ import org.junit.Test;
 public class TestCase2 {
 
 	@Test
+
 	public void test() {
 		UnitTest j=new UnitTest();
 		int t=j.UpdateDatabase(3,"Sam","CS");
@@ -56,6 +57,7 @@ public class TestCase2 {
 		int t=j.UpdateDatabase((Integer)null,null,null);
 		assertEquals(0, t);
 	}
+	
 	
 
 }

@@ -64,12 +64,10 @@ public class UnitTest {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
-				try {
+			
 					UnitTest window = new UnitTest();
 					window.frame.setVisible(true);
-				} catch (Exception e) {
-					
-				}
+			
 			}
 		});
 	}
@@ -89,7 +87,7 @@ public class UnitTest {
 		frame.addWindowListener(new WindowAdapter() {
 			@Override
 			public void windowOpened(WindowEvent e) {
-				ShowData();
+			//	ShowData();
 			}
 		});
 		frame.getContentPane().setBackground(UIManager.getColor("activeCaption"));
@@ -116,18 +114,18 @@ public class UnitTest {
 		textField_1 = new JTextField();
 		textField_1.addKeyListener(new KeyAdapter() {
 
-			@Override
-			public void keyReleased(KeyEvent e) {
-				String PATTERN="^[a-zA-Z]+$";
-				Pattern patt=Pattern.compile(PATTERN);
-				Matcher match=patt.matcher(textField_1.getText());
-				if(!match.matches()) {
-					nlab.setText("Name should not contain numericals (0-9)");
-				}
-				else {
-					nlab.setText(null);
-				}
-			;}
+//			@Override
+//			public void keyReleased(KeyEvent e) {
+//				String PATTERN="^[a-zA-Z]+$";
+//				Pattern patt=Pattern.compile(PATTERN);
+//				Matcher match=patt.matcher(textField_1.getText());
+//				if(!match.matches()) {
+//					nlab.setText("Name should not contain numericals (0-9)");
+//				}
+//				else {
+//					nlab.setText(null);
+//				}
+//			;}
 		});
 		textField_1.setFont(new Font("Calibri", Font.BOLD, 16));
 		textField_1.setBounds(167, 98, 209, 27);
@@ -141,51 +139,51 @@ public class UnitTest {
 		textField_2.setColumns(20);
 		
 		JButton btnNewButton = new JButton("Save");
-		btnNewButton.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				
-//			if(textField.getText().isEmpty()||textField_1.getText().isEmpty()||textField_2.getText().isEmpty()) {
-//				JOptionPane.showMessageDialog(null,"Enter all fields");
-	//		}
-			//else{
-				SaveToDatabase();
-				
-			//}
-			
-				//ShowData();
-			}
-			
-		});
+//		btnNewButton.addActionListener(new ActionListener() {
+//			public void actionPerformed(ActionEvent e) {
+//				
+////			if(textField.getText().isEmpty()||textField_1.getText().isEmpty()||textField_2.getText().isEmpty()) {
+////				JOptionPane.showMessageDialog(null,"Enter all fields");
+//	//		}
+//			//else{
+//			//	SaveToDatabase();
+//				
+//			//}
+//			
+//				//ShowData();
+//			}
+//			
+//		});
 		btnNewButton.setFont(new Font("Calibri", Font.BOLD, 16));
 		btnNewButton.setBounds(84, 221, 92, 34);
 		frame.getContentPane().add(btnNewButton);
 		
 		btnUpdate = new JButton("Update");
-		btnUpdate.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				ShowData();
-			}
-		});
+//		btnUpdate.addActionListener(new ActionListener() {
+//			public void actionPerformed(ActionEvent e) {
+//				//ShowData();
+//			}
+//		});
 		btnUpdate.setFont(new Font("Calibri", Font.BOLD, 16));
 		btnUpdate.setBounds(205, 221, 105, 34);
 		frame.getContentPane().add(btnUpdate);
 		
 		JButton btnBrowse = new JButton("Browse");
-		btnBrowse.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				
-			}
-		});
+//		btnBrowse.addActionListener(new ActionListener() {
+//			public void actionPerformed(ActionEvent e) {
+//				}
+//		});
 		btnBrowse.setFont(new Font("Calibri", Font.BOLD, 16));
 		btnBrowse.setBounds(470, 221, 92, 34);
 		frame.getContentPane().add(btnBrowse);
 		
 		btnDelete = new JButton("Delete");
-		btnDelete.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				
-				ShowData();}
-		});
+	//	btnDelete.addActionListener(new ActionListener() {
+//			public void actionPerformed(ActionEvent e) {
+//				
+//			//	ShowData();
+//				}
+//		});
 		btnDelete.setFont(new Font("Calibri", Font.BOLD, 16));
 		btnDelete.setBounds(342, 221, 92, 34);
 		frame.getContentPane().add(btnDelete);
@@ -307,23 +305,25 @@ public class UnitTest {
 //		btnNewButton_1.setBounds(491, 195, 147, 34);
 //		frame.getContentPane().add(btnNewButton_1);
 	}
-	public static Connection conn() {
+	public static Connection conn(){
 		try {
 			String driver="com.mysql.jdbc.Driver";
 			String url="jdbc:mysql://localhost:3306/studentdatabase";
 			Class.forName(driver);
-			return DriverManager.getConnection(url,"root","Oneplus@7pro");
+			 Connection j=DriverManager.getConnection(url,"root","Oneplus@7pro");
+			throw new Exception();
 		}catch(Exception e) {
 			System.out.println("Connection failed" + e);
+			return null;
 		}
-		return null;
+		//return null;
 	}
 	public int SaveToDatabase(Object a,Object b,Object c)  {
 		
 		try {
-			Connection con=conn();
+			Connection con=connn();
 			if(a==null||b==null||c==null) {
-				return 0;
+				throw new Exception();
 			}
 			else {
 			PreparedStatement ps=con.prepareStatement("INSERT INTO student (ID,Name,Department) VALUES (a,b,c);");
@@ -333,8 +333,9 @@ public class UnitTest {
 //			ps.execute();
 //			JOptionPane.showMessageDialog(null, "Saved!!!");
 			}}catch(Exception e) {
-			
+			return 0;
 		}
+		
 		return 1;
 	}
 	public int ShowData() {
@@ -345,7 +346,7 @@ public class UnitTest {
 		model.addColumn("Department");
 		
 		try {
-			Connection con=conn();
+			Connection con=connn();
 			String query="select * from student";
 			Statement st=con.createStatement();
 			ResultSet rs=st.executeQuery(query);
@@ -366,6 +367,7 @@ public class UnitTest {
 			table.getColumnModel().getColumn(0).setPreferredWidth(50);
 			table.getColumnModel().getColumn(0).setPreferredWidth(50);
 			table.getColumnModel().getColumn(1).setPreferredWidth(50);
+			throw new Exception();
 		}catch(Exception e) {
 			
 		}
@@ -374,9 +376,9 @@ public class UnitTest {
 	public int UpdateDatabase(Object a,Object b,Object c) {
 				
 		try {
-			Connection con=conn();
+			Connection con=connn();
 			if(a==null||b==null||c==null) {
-				return 0;
+				throw new Exception();
 			}
 			else {
 			String query="update student set  ID='"+a+"',Name='"+b+"', Department='"+c+"'where ID='"+a+ "'";
@@ -388,7 +390,7 @@ public class UnitTest {
 			//JOptionPane.showMessageDialog(null, "Updated");
 			
 			}}catch(Exception e1) {
-			
+				return 0;
 		}
 		return 1;
 		
@@ -397,9 +399,9 @@ public class UnitTest {
 	public int DeleteDatabase(Object a,Object b,Object c) {
 			
 		try {
-			Connection con=conn();
+			Connection con=connn();
 			if(a==null||b==null||c==null) {
-				return 0;
+				throw new Exception();
 			}
 			else {
 			String query="delete from student where ID='"+a+"' ";
@@ -411,7 +413,7 @@ public class UnitTest {
 			//JOptionPane.showMessageDialog(null, "Deleted");
 			
 			}}catch(Exception e2) {
-		
+				return 0;
 		}
 		return 1;
 	
@@ -423,17 +425,15 @@ public class UnitTest {
 	public boolean SaveToDatabase() {
 		
 		try {
-			Connection con=conn();
+			Connection con=connn();
 			PreparedStatement ps=con.prepareStatement("INSERT INTO student (ID,Name,Department) VALUES (?,?,?);");
 			ps.setString(1,textField.getText());
 			ps.setString(2,textField_1.getText());
 			ps.setString(3,textField_2.getText());
-			ps.execute();
-			//JOptionPane.showMessageDialog(null, "Saved!!!");
+		throw new Exception();
 		}catch(Exception e) {
-			
+			return false;
 		}
-		return true;
 	
 	}
 	public int BrowseImage(String s) {
@@ -454,5 +454,15 @@ public class UnitTest {
 		
 	//	}
 		return 1;
+	}
+	public static Connection connn() throws ClassNotFoundException, SQLException{
+		
+			String driver="com.mysql.jdbc.Driver";
+			String url="jdbc:mysql://localhost:3306/studentdatabase";
+			Class.forName(driver);
+			 Connection j=DriverManager.getConnection(url,"root","Oneplus@7pro");
+			return j;
+		
+		//return null;
 	}
 }

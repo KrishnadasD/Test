@@ -19,7 +19,6 @@ public class TestCase1 {
 		int t=j.SaveToDatabase(3,"Sam","CS");
 		assertEquals(1, t);
 		
-
 }
 	@Test()
 	public void test1() {
@@ -76,7 +75,7 @@ public class TestCase1 {
 	public void test11() {
 		UnitTest j=new UnitTest();
 		boolean t=j.SaveToDatabase();
-		assertTrue(t);
+		assertFalse(t);
 	}
 	@Test
 	public void test12() {
@@ -86,11 +85,12 @@ public class TestCase1 {
 		
 	}
 	@Test
-	public void test13() {
+	public void test13()  {
 		
 		UnitTest j=new UnitTest();
 		Connection t=j.conn();
-	   assertNotEquals(null,t);;
+	   assertNull(t);
+	   
 		
 
 }

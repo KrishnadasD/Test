@@ -1,0 +1,872 @@
+TestPackage/TestCase1.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase1.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase1.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase1.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase1.java:6:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+TestPackage/TestCase1.java:6:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+TestPackage/TestCase1.java:9:	UnusedImports: Avoid unused imports such as 'org.junit.Rule'
+TestPackage/TestCase1.java:9:	UnusedImports: Avoid unused imports such as 'org.junit.Rule'
+TestPackage/TestCase1.java:11:	UnusedImports: Avoid unused imports such as 'org.junit.rules.ExpectedException'
+TestPackage/TestCase1.java:11:	UnusedImports: Avoid unused imports such as 'org.junit.rules.ExpectedException'
+TestPackage/TestCase1.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase1.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase1.java:13:	CommentRequired: Class comments are required
+TestPackage/TestCase1.java:13:	CommentRequired: Class comments are required
+TestPackage/TestCase1.java:13:	TooManyMethods: This class has too many methods, consider refactoring it.
+TestPackage/TestCase1.java:13:	TooManyMethods: This class has too many methods, consider refactoring it.
+TestPackage/TestCase1.java:17:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:17:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:18:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:18:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:18:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:18:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:19:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:19:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:19:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:19:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:24:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:24:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:25:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:25:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:25:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:25:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:26:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:26:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:26:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:26:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:30:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:30:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:31:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:31:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:31:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:31:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:32:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:32:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:32:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:32:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:33:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:33:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:36:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:36:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:37:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:37:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:37:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:37:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:38:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:38:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:38:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:38:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:39:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:42:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:42:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:43:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:43:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:43:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:43:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:44:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:44:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:44:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:44:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:48:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:48:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:49:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:49:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:49:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:49:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:50:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:50:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:50:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:50:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:51:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:54:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:54:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:55:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:55:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:55:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:55:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:56:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:56:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:56:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:56:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:61:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:61:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:62:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:62:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:62:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:62:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:63:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:63:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:63:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:63:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:64:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:64:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:68:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:68:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:69:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:69:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:69:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:69:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:70:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:70:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:70:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:70:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:71:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:71:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:75:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:75:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:76:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:76:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:76:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:76:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:77:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:77:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:77:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:77:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:78:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:78:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:81:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:81:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:82:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:82:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:82:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:82:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:83:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:83:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:83:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:83:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:84:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:84:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase1.java:88:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:88:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase1.java:88:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+TestPackage/TestCase1.java:88:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+TestPackage/TestCase1.java:90:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:90:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase1.java:90:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:90:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase1.java:91:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/TestCase1.java:91:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/TestCase1.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 't' (lines '91'-'96').
+TestPackage/TestCase1.java:91:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 't' (lines '91'-'96').
+TestPackage/TestCase1.java:91:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:91:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase1.java:91:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:91:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase1.java:91:	UnusedLocalVariable: Avoid unused local variables such as 't'.
+TestPackage/TestCase1.java:91:	UnusedLocalVariable: Avoid unused local variables such as 't'.
+TestPackage/TestCase2.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase2.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase2.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase2.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase2.java:7:	CommentRequired: Class comments are required
+TestPackage/TestCase2.java:7:	CommentRequired: Class comments are required
+TestPackage/TestCase2.java:11:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:11:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:12:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:12:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:12:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:12:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:13:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:13:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:13:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:13:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:19:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:19:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:20:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:20:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:20:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:20:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:21:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:21:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:21:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:21:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:25:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:25:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:26:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:26:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:26:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:26:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:27:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:27:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:27:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:27:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:31:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:31:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:32:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:32:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:32:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:32:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:33:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:33:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:33:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:33:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:37:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:37:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:38:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:38:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:38:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:38:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:39:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:39:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:39:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:39:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:43:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:43:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:44:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:44:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:44:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:44:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:45:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:45:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:45:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:45:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:46:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:46:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:49:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:49:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:50:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:50:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:50:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:50:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:51:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:51:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:51:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:51:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:55:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:55:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase2.java:56:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:56:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase2.java:56:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:56:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase2.java:57:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:57:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase2.java:57:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:57:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase2.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase2.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase3.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase3.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase3.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase3.java:6:	UnusedImports: Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+TestPackage/TestCase3.java:6:	UnusedImports: Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+TestPackage/TestCase3.java:10:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase3.java:10:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase3.java:10:	CommentRequired: Class comments are required
+TestPackage/TestCase3.java:10:	CommentRequired: Class comments are required
+TestPackage/TestCase3.java:13:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:13:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:14:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:14:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:14:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:14:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:15:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:15:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:15:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:15:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:21:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:21:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:22:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:22:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:22:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:22:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:23:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:23:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:23:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:23:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:24:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:24:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:27:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:27:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:28:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:28:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:28:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:28:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:29:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:29:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:29:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:29:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:33:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:33:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:34:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:34:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:34:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:34:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:35:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:35:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:35:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:35:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:39:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:39:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:40:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:40:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:40:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:40:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:41:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:41:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:41:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:41:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:45:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:45:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:46:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:46:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:46:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:46:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:47:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:47:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:47:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:47:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:48:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:48:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:52:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:52:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:53:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:53:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:53:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:53:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:54:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:54:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:54:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:54:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:58:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:58:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:59:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:59:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:59:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:59:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:60:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:60:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:60:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:60:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:61:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:61:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:64:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:64:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase3.java:65:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:65:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase3.java:65:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:65:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase3.java:66:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:66:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+TestPackage/TestCase3.java:66:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:66:	ShortVariable: Avoid variables with short names like t
+TestPackage/TestCase3.java:67:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase3.java:67:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+TestPackage/TestCase4.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase4.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/TestCase4.java:3:	UnusedImports: Avoid unused imports such as 'org.junit.Assert'
+TestPackage/TestCase4.java:3:	UnusedImports: Avoid unused imports such as 'org.junit.Assert'
+TestPackage/TestCase4.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase4.java:4:	UnusedImports: Avoid unused imports such as 'org.junit.Assume.assumeNoException'
+TestPackage/TestCase4.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase4.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+TestPackage/TestCase4.java:8:	CommentRequired: Class comments are required
+TestPackage/TestCase4.java:8:	CommentRequired: Class comments are required
+TestPackage/TestCase4.java:11:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase4.java:11:	CommentRequired: Public method and constructor comments are required
+TestPackage/TestCase4.java:11:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+TestPackage/TestCase4.java:11:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+TestPackage/TestCase4.java:12:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase4.java:12:	LocalVariableCouldBeFinal: Local variable 'j' could be declared final
+TestPackage/TestCase4.java:12:	ShortVariable: Avoid variables with short names like j
+TestPackage/TestCase4.java:12:	ShortVariable: Avoid variables with short names like j
+TestPackage/UnitTest.java:1:	ExcessiveImports: A high number of imports can indicate a high degree of coupling within an object.
+TestPackage/UnitTest.java:1:	ExcessiveImports: A high number of imports can indicate a high degree of coupling within an object.
+TestPackage/UnitTest.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/UnitTest.java:1:	PackageCase: Package name contains upper case characters
+TestPackage/UnitTest.java:8:	UnusedImports: Avoid unused imports such as 'java.sql.SQLException'
+TestPackage/UnitTest.java:8:	UnusedImports: Avoid unused imports such as 'java.sql.SQLException'
+TestPackage/UnitTest.java:10:	UnusedImports: Avoid unused imports such as 'java.util.regex.Matcher'
+TestPackage/UnitTest.java:10:	UnusedImports: Avoid unused imports such as 'java.util.regex.Matcher'
+TestPackage/UnitTest.java:11:	UnusedImports: Avoid unused imports such as 'java.util.regex.Pattern'
+TestPackage/UnitTest.java:11:	UnusedImports: Avoid unused imports such as 'java.util.regex.Pattern'
+TestPackage/UnitTest.java:12:	DuplicateImports: Avoid duplicate imports such as 'java.sql.DriverManager'
+TestPackage/UnitTest.java:12:	DuplicateImports: Avoid duplicate imports such as 'java.sql.DriverManager'
+TestPackage/UnitTest.java:16:	UnusedImports: Avoid unused imports such as 'javax.swing.JOptionPane'
+TestPackage/UnitTest.java:16:	UnusedImports: Avoid unused imports such as 'javax.swing.JOptionPane'
+TestPackage/UnitTest.java:26:	UnusedImports: Avoid unused imports such as 'javax.swing.JFileChooser'
+TestPackage/UnitTest.java:26:	UnusedImports: Avoid unused imports such as 'javax.swing.JFileChooser'
+TestPackage/UnitTest.java:28:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionListener'
+TestPackage/UnitTest.java:28:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionListener'
+TestPackage/UnitTest.java:29:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+TestPackage/UnitTest.java:29:	UnusedImports: Avoid unused imports such as 'java.awt.event.ActionEvent'
+TestPackage/UnitTest.java:32:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseAdapter'
+TestPackage/UnitTest.java:32:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseAdapter'
+TestPackage/UnitTest.java:33:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseEvent'
+TestPackage/UnitTest.java:33:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseEvent'
+TestPackage/UnitTest.java:36:	UnusedImports: Avoid unused imports such as 'java.awt.event.KeyEvent'
+TestPackage/UnitTest.java:36:	UnusedImports: Avoid unused imports such as 'java.awt.event.KeyEvent'
+TestPackage/UnitTest.java:38:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+TestPackage/UnitTest.java:38:	UnusedImports: Avoid unused imports such as 'javax.swing.filechooser.FileNameExtensionFilter'
+TestPackage/UnitTest.java:43:	UnusedImports: Avoid unused imports such as 'java.io.File'
+TestPackage/UnitTest.java:43:	UnusedImports: Avoid unused imports such as 'java.io.File'
+TestPackage/UnitTest.java:51:	CommentRequired: Class comments are required
+TestPackage/UnitTest.java:51:	CommentRequired: Class comments are required
+TestPackage/UnitTest.java:53:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:53:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:53:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:53:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:54:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:54:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:54:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:54:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:54:	FieldNamingConventions: The field name 'textField_1' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:54:	FieldNamingConventions: The field name 'textField_1' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:54:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+TestPackage/UnitTest.java:54:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+TestPackage/UnitTest.java:55:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:55:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:55:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:55:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:55:	FieldNamingConventions: The field name 'textField_2' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:55:	FieldNamingConventions: The field name 'textField_2' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:55:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_2' is not final.
+TestPackage/UnitTest.java:55:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_2' is not final.
+TestPackage/UnitTest.java:56:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:56:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:56:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:56:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:56:	SingularField: Perhaps 'btnUpdate' could be replaced by a local variable.
+TestPackage/UnitTest.java:56:	SingularField: Perhaps 'btnUpdate' could be replaced by a local variable.
+TestPackage/UnitTest.java:57:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:57:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:57:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:57:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:57:	SingularField: Perhaps 'btnDelete' could be replaced by a local variable.
+TestPackage/UnitTest.java:57:	SingularField: Perhaps 'btnDelete' could be replaced by a local variable.
+TestPackage/UnitTest.java:58:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:58:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:58:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:58:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:59:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:59:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:59:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:59:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:60:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:60:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+TestPackage/UnitTest.java:60:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the lblNewLabel field if you want a default access modifier
+TestPackage/UnitTest.java:60:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the lblNewLabel field if you want a default access modifier
+TestPackage/UnitTest.java:60:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:60:	CommentRequired: Field comments are required
+TestPackage/UnitTest.java:60:	DefaultPackage: Use explicit scoping instead of the default package private level
+TestPackage/UnitTest.java:60:	DefaultPackage: Use explicit scoping instead of the default package private level
+TestPackage/UnitTest.java:64:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+TestPackage/UnitTest.java:64:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+TestPackage/UnitTest.java:66:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:66:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:66:	MissingOverride: The method 'run()' is missing an @Override annotation.
+TestPackage/UnitTest.java:66:	MissingOverride: The method 'run()' is missing an @Override annotation.
+TestPackage/UnitTest.java:68:	LocalVariableCouldBeFinal: Local variable 'window' could be declared final
+TestPackage/UnitTest.java:68:	LocalVariableCouldBeFinal: Local variable 'window' could be declared final
+TestPackage/UnitTest.java:69:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+TestPackage/UnitTest.java:69:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+TestPackage/UnitTest.java:69:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+TestPackage/UnitTest.java:69:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+TestPackage/UnitTest.java:85:	ExcessiveMethodLength: Avoid really long methods.
+TestPackage/UnitTest.java:85:	ExcessiveMethodLength: Avoid really long methods.
+TestPackage/UnitTest.java:85:	NcssCount: The method 'initialize()' has a NCSS line count of 131.
+TestPackage/UnitTest.java:85:	NcssCount: The method 'initialize()' has a NCSS line count of 131.
+TestPackage/UnitTest.java:85:	NcssMethodCount: The method initialize() has an NCSS line count of 131
+TestPackage/UnitTest.java:85:	NcssMethodCount: The method initialize() has an NCSS line count of 131
+TestPackage/UnitTest.java:89:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+TestPackage/UnitTest.java:89:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+TestPackage/UnitTest.java:89:	ShortVariable: Avoid variables with short names like e
+TestPackage/UnitTest.java:89:	ShortVariable: Avoid variables with short names like e
+TestPackage/UnitTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:96:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:96:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:98:	LocalVariableCouldBeFinal: Local variable 'nlab' could be declared final
+TestPackage/UnitTest.java:98:	LocalVariableCouldBeFinal: Local variable 'nlab' could be declared final
+TestPackage/UnitTest.java:102:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:102:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:104:	LocalVariableCouldBeFinal: Local variable 'lblName' could be declared final
+TestPackage/UnitTest.java:104:	LocalVariableCouldBeFinal: Local variable 'lblName' could be declared final
+TestPackage/UnitTest.java:105:	AvoidDuplicateLiterals: The String literal "Calibri" appears 10 times in this file; the first occurrence is on line 105
+TestPackage/UnitTest.java:105:	AvoidDuplicateLiterals: The String literal "Calibri" appears 10 times in this file; the first occurrence is on line 105
+TestPackage/UnitTest.java:107:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:107:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:109:	LocalVariableCouldBeFinal: Local variable 'lblDepartment' could be declared final
+TestPackage/UnitTest.java:109:	LocalVariableCouldBeFinal: Local variable 'lblDepartment' could be declared final
+TestPackage/UnitTest.java:112:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:112:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:132:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:132:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:138:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:138:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:141:	LocalVariableCouldBeFinal: Local variable 'btnNewButton' could be declared final
+TestPackage/UnitTest.java:141:	LocalVariableCouldBeFinal: Local variable 'btnNewButton' could be declared final
+TestPackage/UnitTest.java:145:	CommentSize: Comment is too large: Line too long
+TestPackage/UnitTest.java:145:	CommentSize: Comment is too large: Line too long
+TestPackage/UnitTest.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:171:	LocalVariableCouldBeFinal: Local variable 'btnBrowse' could be declared final
+TestPackage/UnitTest.java:171:	LocalVariableCouldBeFinal: Local variable 'btnBrowse' could be declared final
+TestPackage/UnitTest.java:178:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:178:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:191:	LocalVariableCouldBeFinal: Local variable 'scrollPane' could be declared final
+TestPackage/UnitTest.java:191:	LocalVariableCouldBeFinal: Local variable 'scrollPane' could be declared final
+TestPackage/UnitTest.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:198:	LocalVariableCouldBeFinal: Local variable 'lblId' could be declared final
+TestPackage/UnitTest.java:198:	LocalVariableCouldBeFinal: Local variable 'lblId' could be declared final
+TestPackage/UnitTest.java:201:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:201:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:209:	LocalVariableCouldBeFinal: Local variable 'menuBar' could be declared final
+TestPackage/UnitTest.java:209:	LocalVariableCouldBeFinal: Local variable 'menuBar' could be declared final
+TestPackage/UnitTest.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:213:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:215:	LocalVariableCouldBeFinal: Local variable 'mnFile' could be declared final
+TestPackage/UnitTest.java:215:	LocalVariableCouldBeFinal: Local variable 'mnFile' could be declared final
+TestPackage/UnitTest.java:216:	AvoidDuplicateLiterals: The String literal "Segoe UI" appears 17 times in this file; the first occurrence is on line 216
+TestPackage/UnitTest.java:216:	AvoidDuplicateLiterals: The String literal "Segoe UI" appears 17 times in this file; the first occurrence is on line 216
+TestPackage/UnitTest.java:219:	LocalVariableCouldBeFinal: Local variable 'mntmNew' could be declared final
+TestPackage/UnitTest.java:219:	LocalVariableCouldBeFinal: Local variable 'mntmNew' could be declared final
+TestPackage/UnitTest.java:224:	LocalVariableCouldBeFinal: Local variable 'mntmOpenFile' could be declared final
+TestPackage/UnitTest.java:224:	LocalVariableCouldBeFinal: Local variable 'mntmOpenFile' could be declared final
+TestPackage/UnitTest.java:228:	LocalVariableCouldBeFinal: Local variable 'separator' could be declared final
+TestPackage/UnitTest.java:228:	LocalVariableCouldBeFinal: Local variable 'separator' could be declared final
+TestPackage/UnitTest.java:231:	LocalVariableCouldBeFinal: Local variable 'mntmClose' could be declared final
+TestPackage/UnitTest.java:231:	LocalVariableCouldBeFinal: Local variable 'mntmClose' could be declared final
+TestPackage/UnitTest.java:235:	LocalVariableCouldBeFinal: Local variable 'separator_1' could be declared final
+TestPackage/UnitTest.java:235:	LocalVariableCouldBeFinal: Local variable 'separator_1' could be declared final
+TestPackage/UnitTest.java:235:	LocalVariableNamingConventions: The local variable name 'separator_1' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:235:	LocalVariableNamingConventions: The local variable name 'separator_1' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:235:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_1' is not final.
+TestPackage/UnitTest.java:235:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_1' is not final.
+TestPackage/UnitTest.java:238:	LocalVariableCouldBeFinal: Local variable 'mntmExit' could be declared final
+TestPackage/UnitTest.java:238:	LocalVariableCouldBeFinal: Local variable 'mntmExit' could be declared final
+TestPackage/UnitTest.java:243:	LocalVariableCouldBeFinal: Local variable 'mnEdit' could be declared final
+TestPackage/UnitTest.java:243:	LocalVariableCouldBeFinal: Local variable 'mnEdit' could be declared final
+TestPackage/UnitTest.java:247:	LocalVariableCouldBeFinal: Local variable 'mntmCut' could be declared final
+TestPackage/UnitTest.java:247:	LocalVariableCouldBeFinal: Local variable 'mntmCut' could be declared final
+TestPackage/UnitTest.java:252:	LocalVariableCouldBeFinal: Local variable 'mntmCopy' could be declared final
+TestPackage/UnitTest.java:252:	LocalVariableCouldBeFinal: Local variable 'mntmCopy' could be declared final
+TestPackage/UnitTest.java:257:	LocalVariableCouldBeFinal: Local variable 'separator_2' could be declared final
+TestPackage/UnitTest.java:257:	LocalVariableCouldBeFinal: Local variable 'separator_2' could be declared final
+TestPackage/UnitTest.java:257:	LocalVariableNamingConventions: The local variable name 'separator_2' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:257:	LocalVariableNamingConventions: The local variable name 'separator_2' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:257:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_2' is not final.
+TestPackage/UnitTest.java:257:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_2' is not final.
+TestPackage/UnitTest.java:260:	LocalVariableCouldBeFinal: Local variable 'mntmDelete' could be declared final
+TestPackage/UnitTest.java:260:	LocalVariableCouldBeFinal: Local variable 'mntmDelete' could be declared final
+TestPackage/UnitTest.java:265:	LocalVariableCouldBeFinal: Local variable 'mnView' could be declared final
+TestPackage/UnitTest.java:265:	LocalVariableCouldBeFinal: Local variable 'mnView' could be declared final
+TestPackage/UnitTest.java:269:	LocalVariableCouldBeFinal: Local variable 'mnZoom' could be declared final
+TestPackage/UnitTest.java:269:	LocalVariableCouldBeFinal: Local variable 'mnZoom' could be declared final
+TestPackage/UnitTest.java:273:	LocalVariableCouldBeFinal: Local variable 'mntmZoomIn' could be declared final
+TestPackage/UnitTest.java:273:	LocalVariableCouldBeFinal: Local variable 'mntmZoomIn' could be declared final
+TestPackage/UnitTest.java:278:	LocalVariableCouldBeFinal: Local variable 'mntmZoomOut' could be declared final
+TestPackage/UnitTest.java:278:	LocalVariableCouldBeFinal: Local variable 'mntmZoomOut' could be declared final
+TestPackage/UnitTest.java:283:	LocalVariableCouldBeFinal: Local variable 'mnHelp' could be declared final
+TestPackage/UnitTest.java:283:	LocalVariableCouldBeFinal: Local variable 'mnHelp' could be declared final
+TestPackage/UnitTest.java:287:	LocalVariableCouldBeFinal: Local variable 'mntmNewMenuItem' could be declared final
+TestPackage/UnitTest.java:287:	LocalVariableCouldBeFinal: Local variable 'mntmNewMenuItem' could be declared final
+TestPackage/UnitTest.java:291:	LocalVariableCouldBeFinal: Local variable 'mntmSendFeedback' could be declared final
+TestPackage/UnitTest.java:291:	LocalVariableCouldBeFinal: Local variable 'mntmSendFeedback' could be declared final
+TestPackage/UnitTest.java:295:	LocalVariableCouldBeFinal: Local variable 'separator_3' could be declared final
+TestPackage/UnitTest.java:295:	LocalVariableCouldBeFinal: Local variable 'separator_3' could be declared final
+TestPackage/UnitTest.java:295:	LocalVariableNamingConventions: The local variable name 'separator_3' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:295:	LocalVariableNamingConventions: The local variable name 'separator_3' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:295:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_3' is not final.
+TestPackage/UnitTest.java:295:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'separator_3' is not final.
+TestPackage/UnitTest.java:298:	LocalVariableCouldBeFinal: Local variable 'mntmAboutApp' could be declared final
+TestPackage/UnitTest.java:298:	LocalVariableCouldBeFinal: Local variable 'mntmAboutApp' could be declared final
+TestPackage/UnitTest.java:308:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:308:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:310:	LocalVariableCouldBeFinal: Local variable 'driver' could be declared final
+TestPackage/UnitTest.java:310:	LocalVariableCouldBeFinal: Local variable 'driver' could be declared final
+TestPackage/UnitTest.java:311:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+TestPackage/UnitTest.java:311:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+TestPackage/UnitTest.java:313:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:313:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:315:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:315:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:316:	SystemPrintln: System.out.println is used
+TestPackage/UnitTest.java:316:	SystemPrintln: System.out.println is used
+TestPackage/UnitTest.java:320:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:320:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:320:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:320:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:320:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:323:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:323:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:323:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '323'-'339').
+TestPackage/UnitTest.java:323:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '323'-'339').
+TestPackage/UnitTest.java:323:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:323:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:325:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:325:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:328:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:328:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:328:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'ps' (lines '328'-'339').
+TestPackage/UnitTest.java:328:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'ps' (lines '328'-'339').
+TestPackage/UnitTest.java:328:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:328:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:328:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:328:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:328:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:328:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:328:	UnusedLocalVariable: Avoid unused local variables such as 'ps'.
+TestPackage/UnitTest.java:328:	UnusedLocalVariable: Avoid unused local variables such as 'ps'.
+TestPackage/UnitTest.java:334:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:334:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:335:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:335:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:340:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:340:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:340:	MethodNamingConventions: The instance method name 'ShowData' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:340:	MethodNamingConventions: The instance method name 'ShowData' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:342:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+TestPackage/UnitTest.java:342:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+TestPackage/UnitTest.java:348:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:348:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:348:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:348:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:349:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:349:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:350:	CloseResource: Ensure that resources like this Statement object are closed after use
+TestPackage/UnitTest.java:350:	CloseResource: Ensure that resources like this Statement object are closed after use
+TestPackage/UnitTest.java:350:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:350:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:350:	LocalVariableCouldBeFinal: Local variable 'st' could be declared final
+TestPackage/UnitTest.java:350:	LocalVariableCouldBeFinal: Local variable 'st' could be declared final
+TestPackage/UnitTest.java:350:	ShortVariable: Avoid variables with short names like st
+TestPackage/UnitTest.java:350:	ShortVariable: Avoid variables with short names like st
+TestPackage/UnitTest.java:351:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+TestPackage/UnitTest.java:351:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+TestPackage/UnitTest.java:351:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:351:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:351:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+TestPackage/UnitTest.java:351:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+TestPackage/UnitTest.java:351:	ShortVariable: Avoid variables with short names like rs
+TestPackage/UnitTest.java:351:	ShortVariable: Avoid variables with short names like rs
+TestPackage/UnitTest.java:352:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:352:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:353:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+TestPackage/UnitTest.java:353:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+TestPackage/UnitTest.java:354:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:354:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:355:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:355:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:356:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:356:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:361:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:361:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:362:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:362:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:363:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:363:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:366:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:366:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:366:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:366:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:367:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:367:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:367:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:367:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:368:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:368:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:368:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:368:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:369:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:369:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:370:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:370:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:370:	EmptyCatchBlock: Avoid empty catch blocks
+TestPackage/UnitTest.java:370:	EmptyCatchBlock: Avoid empty catch blocks
+TestPackage/UnitTest.java:375:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:375:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:375:	MethodNamingConventions: The instance method name 'UpdateDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:375:	MethodNamingConventions: The instance method name 'UpdateDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:375:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:378:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:378:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:378:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '378'-'396').
+TestPackage/UnitTest.java:378:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '378'-'396').
+TestPackage/UnitTest.java:378:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:378:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:380:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:380:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:383:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:383:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:384:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:384:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:384:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:384:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:384:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:384:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:384:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:384:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:386:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:386:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:387:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:387:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:388:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:388:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:391:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:391:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:392:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:392:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:398:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:398:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+TestPackage/UnitTest.java:398:	MethodNamingConventions: The instance method name 'DeleteDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:398:	MethodNamingConventions: The instance method name 'DeleteDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:398:	ShortVariable: Avoid variables with short names like c
+TestPackage/UnitTest.java:401:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:401:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:401:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '401'-'419').
+TestPackage/UnitTest.java:401:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'con' (lines '401'-'419').
+TestPackage/UnitTest.java:401:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:401:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:403:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:403:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:406:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:406:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+TestPackage/UnitTest.java:407:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:407:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:407:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:407:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:407:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:407:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:407:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:407:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:409:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:409:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:410:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:410:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:411:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:411:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:414:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:414:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:415:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:415:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+TestPackage/UnitTest.java:420:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:420:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:420:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:420:	MethodArgumentCouldBeFinal: Parameter 'a' is not assigned and could be declared final
+TestPackage/UnitTest.java:420:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:420:	MethodArgumentCouldBeFinal: Parameter 'b' is not assigned and could be declared final
+TestPackage/UnitTest.java:420:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:420:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:420:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:420:	ShortVariable: Avoid variables with short names like a
+TestPackage/UnitTest.java:420:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:420:	ShortVariable: Avoid variables with short names like b
+TestPackage/UnitTest.java:421:	SystemPrintln: System.out.println is used
+TestPackage/UnitTest.java:421:	SystemPrintln: System.out.println is used
+TestPackage/UnitTest.java:424:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:424:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:424:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:424:	MethodNamingConventions: The instance method name 'SaveToDatabase' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:427:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:427:	CloseResource: Ensure that resources like this Connection object are closed after use
+TestPackage/UnitTest.java:427:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:427:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+TestPackage/UnitTest.java:428:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:428:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+TestPackage/UnitTest.java:428:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:428:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:428:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:428:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+TestPackage/UnitTest.java:428:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:428:	ShortVariable: Avoid variables with short names like ps
+TestPackage/UnitTest.java:429:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:429:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:430:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:430:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+TestPackage/UnitTest.java:432:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:432:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+TestPackage/UnitTest.java:433:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:433:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+TestPackage/UnitTest.java:438:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:438:	CommentRequired: Public method and constructor comments are required
+TestPackage/UnitTest.java:438:	MethodArgumentCouldBeFinal: Parameter 's' is not assigned and could be declared final
+TestPackage/UnitTest.java:438:	MethodArgumentCouldBeFinal: Parameter 's' is not assigned and could be declared final
+TestPackage/UnitTest.java:438:	MethodNamingConventions: The instance method name 'BrowseImage' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:438:	MethodNamingConventions: The instance method name 'BrowseImage' doesn't match '[a-z][a-zA-Z0-9]*'
+TestPackage/UnitTest.java:438:	ShortVariable: Avoid variables with short names like s
+TestPackage/UnitTest.java:438:	ShortVariable: Avoid variables with short names like s
+TestPackage/UnitTest.java:440:	CommentSize: Comment is too large: Line too long
+TestPackage/UnitTest.java:440:	CommentSize: Comment is too large: Line too long
+TestPackage/UnitTest.java:448:	LocalVariableCouldBeFinal: Local variable 'ii' could be declared final
+TestPackage/UnitTest.java:448:	LocalVariableCouldBeFinal: Local variable 'ii' could be declared final
+TestPackage/UnitTest.java:448:	ShortVariable: Avoid variables with short names like ii
+TestPackage/UnitTest.java:448:	ShortVariable: Avoid variables with short names like ii
+TestPackage/UnitTest.java:450:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:450:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+TestPackage/UnitTest.java:450:	LocalVariableCouldBeFinal: Local variable 'image' could be declared final
+TestPackage/UnitTest.java:450:	LocalVariableCouldBeFinal: Local variable 'image' could be declared final
